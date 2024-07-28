@@ -1,0 +1,22 @@
+.container
+{
+    width: 200px;
+    height: 350px;
+    background-color: brown;
+    display: inline-block;
+    border-radius : 4px;
+    padding: 5px;
+}
+.img
+{
+    width: 190px;
+    height: 150px;
+    background-color: aqua;
+    border-radius : 4px;
+    
+}
+.btn
+{
+    padding: 5px;
+    background-color: blue;
+}
